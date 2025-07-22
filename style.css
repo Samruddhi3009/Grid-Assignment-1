@@ -1,0 +1,40 @@
+.container{
+    margin-top: 50px;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.light-blue{
+    background-color: lightblue;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.darkgrey{
+    background-color:grey;
+}
